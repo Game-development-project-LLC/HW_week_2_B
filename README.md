@@ -6,5 +6,5 @@
 
 https://omerzshahar.itch.io/camera
 
-Omer (omerzshahar@gmail.com)
-Matan (Matanbrimer1@gmail.com)
+- Omer (omerzshahar@gmail.com)
+- Matan (Matanbrimer1@gmail.com)
